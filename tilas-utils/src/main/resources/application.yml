@@ -1,0 +1,6 @@
+#参数配置化 -阿里云OSS
+aliyun:
+  oss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    bucketName: java-web01-kyrie
+    region: cn-beijing
